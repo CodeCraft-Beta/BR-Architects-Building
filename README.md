@@ -1,21 +1,15 @@
 # BR-Architects-Building
 This is Jane-s-world-Blog. I am make Following Section in this Website.
 
-+ **Welcome**
++ **Home**
 
-+ **Popular Posts**
++ **Projects**
 
-+ **Advertise**
++ **About**
 
-+ **TITLE HEADING**
++ **Contact**
 
-+ **Tags**
-
-+ **Inspiration**
-
-+ **Follow Me**
-  
-+ **Subscribe**
++ **Map**
 
 Watch more Website Template in my Website.
 
