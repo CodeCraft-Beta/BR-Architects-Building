@@ -15,7 +15,7 @@ Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/BR-Architects-Building/
 
-**Website Video** - Coming Soon
+**Website Video** - https://youtu.be/Ak19YiR2bBI
 
 # CodeCraft-Beta
 
@@ -41,7 +41,7 @@ Thankyou.
 
 **TikTok** - https://www.tiktok.com/@codecraft147
 
-**Website** - Coming Soon
+**Website** - https://designcraft.odoo.com/
 
 # Introduction
 
